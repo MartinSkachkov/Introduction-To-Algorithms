@@ -9,3 +9,8 @@
 | [House Robber](https://leetcode.com/problems/house-robber/description/) |
 | [House Robber II](https://leetcode.com/problems/house-robber-ii/description/) |
 | [Decode Ways](https://leetcode.com/problems/decode-ways/description/) |
+| [Coin Change](https://leetcode.com/problems/coin-change/description/) |
+| [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) |
+| [Word Break](https://leetcode.com/problems/word-break/) |
+| [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) |
+| [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) |

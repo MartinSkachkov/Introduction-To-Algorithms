@@ -1,4 +1,4 @@
-| Задача |
+| 1-D array|
 | ------- |
 | [Cows](https://www.youtube.com/watch?v=_tur2nPkIKo&list=PLDV1Zeh2NRsAsbafOroUBnNV8fhZa7P4u) |
 | [Tiling problems [1/2]](https://www.youtube.com/watch?v=gQszF5qdZ-0&list=PLDV1Zeh2NRsAsbafOroUBnNV8fhZa7P4u&index=2) |
@@ -14,3 +14,11 @@
 | [Word Break](https://leetcode.com/problems/word-break/) |
 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) |
 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) |
+
+| 2-D array|
+| ------- |
+| [Unique Paths](https://leetcode.com/problems/unique-paths/description/) |
+| [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/) |
+| [Stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) |
+| [Coin Change II](https://leetcode.com/problems/coin-change-ii/) |
+| [Target Sum](https://leetcode.com/problems/target-sum/) |

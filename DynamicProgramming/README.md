@@ -22,3 +22,4 @@
 | [Stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) |
 | [Coin Change II](https://leetcode.com/problems/coin-change-ii/) |
 | [Target Sum](https://leetcode.com/problems/target-sum/) |
+| [Knapsack 0/1](https://www.youtube.com/watch?v=cJ21moQpofY) |

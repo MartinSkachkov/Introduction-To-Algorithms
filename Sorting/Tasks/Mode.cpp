@@ -20,8 +20,9 @@ int findMode(vector<int> &arr) {
           m = s;
         }
       }
+    } else {
+      s = 1;
     }
-    s = 1;
   }
 
   return mode;

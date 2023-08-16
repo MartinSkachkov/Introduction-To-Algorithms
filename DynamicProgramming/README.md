@@ -25,3 +25,4 @@
 | [Knapsack 0/1](https://www.youtube.com/watch?v=cJ21moQpofY) |
 | [PaintHouse](https://www.lintcode.com/problem/515/) |
 | [Unique Paths 2](https://leetcode.com/problems/unique-paths-ii/description/) |
+| [Divisible by 3](https://www.codingninjas.com/studio/library/greatest-sum-divisible-by-three) |

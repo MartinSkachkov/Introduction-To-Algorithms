@@ -11,6 +11,8 @@
 | [112C](https://judge.openfmi.net/practice/open_contest?contest_id=178&fbclid=IwAR0V4PD1lwIFuH10peHH35RxgyV6BqEN0DH_LhYdhArMiNlsct9h5UftstE) | Средна |
 | [Mahmoud and Ehab and the bipartiteness](https://codeforces.com/problemset/problem/862/B) | Средна |
 | [Fox And Names](https://codeforces.com/contest/510/problem/C) | Средна |
+| [Bipartite Constraints]() | Средна |
 | [Рицари](https://judge.openfmi.net/practice/open_contest?contest_id=178&fbclid=IwAR0V4PD1lwIFuH10peHH35RxgyV6BqEN0DH_LhYdhArMiNlsct9h5UftstE) | Трудна |
 | [Метеорити](https://judge.openfmi.net/practice/open_contest?contest_id=178&fbclid=IwAR0V4PD1lwIFuH10peHH35RxgyV6BqEN0DH_LhYdhArMiNlsct9h5UftstE) | Трудна |
 | [Cheating](https://action.informatika.bg/problems/114?fbclid=IwAR3eM_pvK6umZ8kadI7Ant3wxPSBTM_x8hxmrGOxNYFdVF1osHom7QY6CRc) | Трудна |
+| [Find Bridges]() | Трудна |
